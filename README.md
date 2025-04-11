@@ -3,9 +3,13 @@ This needs my backup/restore scripts: https://github.com/AldebaraanMKII/WoW-char
 
 # Configuration
 $CharacterList = List of characters that you want to backup. Case sensitive.
+
 $BackupDelay = backup the characters every $BackupDelay seconds.
+
 $7zipCompression = Create a 7z archive and then delete the folder to save space.
+
 $DBFilePath = No need to mess with this.
+
 
 # Usage
 1. Clone this and my backup/restore scripts. Make sure they are in the same folder.
