@@ -20,7 +20,10 @@ $DBFilePath = No need to mess with this.
 
 # FAQ
 Q: Can i play while this runs?
+
 A: Yes. It was my intention to backup the characters while they are being played.
 
+
 Q: I set it to backup every X seconds but they only backup several tries later!
+
 A: Worldserver.conf PlayerSaveInterval needs to be edited. Set it to something lower than what you set $BackupDelay.
