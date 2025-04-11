@@ -12,6 +12,7 @@ $DBFilePath = No need to mess with this.
 
 
 # Usage
+Make sure you have Powershell 7 installed.
 1. Clone this and my backup/restore scripts. Make sure they are in the same folder.
 2. Configure "(Config) Backup scripts.ps1"
 3. Configure "(Config) AutoBackup script.ps1"
